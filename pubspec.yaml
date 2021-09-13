@@ -1,7 +1,7 @@
 name: view_bind_adapter
 description: A new Flutter project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/JNinBer/view_bind_adapter
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
