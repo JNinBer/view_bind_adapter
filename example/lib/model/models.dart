@@ -1,10 +1,5 @@
-class AModel {
+class AModel {}
 
-}
+class BModel {}
 
-class BModel {
-
-}
-class CModel{
-
-}
+class CModel {}
